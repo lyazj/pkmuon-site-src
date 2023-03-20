@@ -5,7 +5,7 @@
 # Site
 title: PKMUON Lab
 subtitle: ''
-description: ->
+description:
   Probing sub-GeV darK Matter Using freely flying LeptONs (PKMUON),
   a new method to detect sub-GeV dark matter at or below the MeV scale,
   through their scatterings from freely flying leptons and the resulting kinematic shifts.
