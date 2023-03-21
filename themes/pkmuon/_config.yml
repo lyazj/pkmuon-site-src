@@ -1,7 +1,11 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  Posts: /posts/
+  Archives: /archives/
+  Publications: /publications/
+  Contact us: /contact-us/
+  About: /about/
 rss: /atom.xml
 banner: "images/banner.jpg"
 
