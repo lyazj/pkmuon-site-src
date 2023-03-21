@@ -3,7 +3,8 @@ menu:
   Home: /
   Posts: /posts/
   Archives: /archives/
-  Publications: /publications/
+  Blogs: /categories/blogs/
+  Publications: /categories/publications/
   Contact us: /contact-us/
   About: /about/
 rss: /atom.xml
