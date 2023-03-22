@@ -1,12 +1,15 @@
 # PKMUON 网站
 
-**说明**：如果你可以访问 PKU farm，而不想或不便配置 node.js 和 npm 开发环境，建议选择[在 PKU farm 上编辑页面](#farm)方式。
+**要求**：`node.js 14+`，最好`node.js 18+`（[下载主页](https://nodejs.org/en/download)，[各大 Linux 安装包下载页面](https://nodejs.org/en/download/package-manager)）。
+
+**说明**：如果你可以访问 PKU farm，而不想或不便配置 node.js 开发环境，建议选择[在 PKU farm 上编辑页面](#farm)方式。
 
 ## 本地测试
 
 克隆仓库后进入项目根目录，执行：
 
 ```bash
+npm install hexo -g
 npm install
 hexo server
 ```
