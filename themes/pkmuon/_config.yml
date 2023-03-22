@@ -1,8 +1,8 @@
 # Header
 menu:
   Home: /
-  Posts: /posts/
-  Archives: /archives/
+  # Posts: /posts/
+  # Archives: /archives/
   Blogs: /categories/blogs/
   Publications: /categories/publications/
   Contact us: /contact-us/
@@ -32,9 +32,9 @@ copyright:
 # Sidebar
 sidebar: right
 widgets:
-- category
-- tag
-- tagcloud
+# - category
+# - tag
+# - tagcloud
 - archive
 - recent_posts
 
