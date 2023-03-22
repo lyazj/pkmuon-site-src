@@ -11,7 +11,7 @@ hexo server
 
 ## 添加、删除或修改页面
 
-所有页面位于 source/\_posts 中，按照 category 分为 blogs 和 publications 两类。可以使用手动或 hexo 命令方式创建新页面，hexo 方式参见 https://hexo.io/docs/writing。
+所有页面位于 source/\_posts 中，按照 category 分为 blogs 和 publications 两类。可以使用手动或 hexo 命令方式创建新页面，hexo 方式参见 [hexo 官方文档](https://hexo.io/docs/writing)。
 
 ## 在 PKU farm 上编辑页面
 
