@@ -2,7 +2,7 @@
 
 **要求**：`node.js 14+`，最好`node.js 18+`（[下载主页](https://nodejs.org/en/download)，[各大 Linux 安装包下载页面](https://nodejs.org/en/download/package-manager)）。
 
-**说明**：如果你可以访问 PKU farm，而不想或不便配置 node.js 开发环境，建议选择 [在 PKU farm 上编辑页面](#farm) 方式。
+**说明**：如果你可以访问 PKU farm，而不想或不便配置 node.js 开发环境，请看 [在 PKU farm 上编辑页面](#farm)。
 
 ## 本地测试
 
