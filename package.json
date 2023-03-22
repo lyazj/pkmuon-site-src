@@ -1,11 +1,11 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
-  "private": true,
+  "name": "pkmuon-site",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "deploy": "hexo clean && hexo deploy --config _config.yml,_deploy.yml",
     "server": "hexo server"
   },
   "hexo": {
