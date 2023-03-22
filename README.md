@@ -40,6 +40,6 @@ ssh farm -L 4000:localhost:4000
 /data/pubfs/lyazj/pkmuon
 ```
 
-程序会自动使用 `pushd` 命令切换到项目根目录。该目录及部分子目录已设置为对 pku 组可写。一般需要先执行 `git pull` 拉取远程仓库中的更改。如包依赖发生改变，需要执行 `npm install`。而后与之前一样，执行 `npm run server &` 即可开启本地测试服务器。
+程序会自动使用 `pushd` 命令切换到项目根目录，并执行 `umask 0002` 以维持同组成员的 rwx 权限。一般需要先执行 `git pull` 拉取远程仓库中的更改。如包依赖发生改变，需要执行 `npm install`。而后与之前一样，执行 `npm run server &` 即可开启本地测试服务器。
 
-已为 github config 添加对仓库可写的 https token，可以直接执行 `git push` 推送更改。\_deploy.yml 中也已经写入 token，可以直接使用 `npm run deploy` 命令部署页面至静态页面仓库。
+已为 git config 添加对仓库可写的 https token，可以直接执行 `git push` 推送更改。\_deploy.yml 中也已写好 token，可以直接使用 `npm run deploy` 命令部署页面至静态页面仓库。
