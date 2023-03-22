@@ -53,6 +53,9 @@ recent_posts_limits: 5
 google_analytics:
 gauges_analytics:
 favicon: /favicon.ico
+logo: /favicon.png
+ppnp_icon: /ppnp.png
+ppnp_href: https://ppnp.pku.edu.cn
 twitter:
 fb_admins:
 fb_app_id:

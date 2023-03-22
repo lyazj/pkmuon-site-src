@@ -31,13 +31,12 @@
   height: 100%
   background: url(banner-url) center #000
   background-size: cover
-  z-index: -1
 
 #header-title
   text-align: center
   height: logo-size
   position: absolute
-  top: 50%
+  top: 45%
   left: 0
   margin-top: logo-size * -0.5
 
@@ -52,6 +51,16 @@ $logo-text
   font-size: logo-size
   line-height: logo-size
   letter-spacing: 2px
+
+#ppnp-wrap
+  clear: both
+
+#logo img
+  width: logo-size * 2
+  height: logo-size
+
+#ppnp img
+  width: ppnp-width
 
 #subtitle
   @extend $logo-text
@@ -74,7 +83,7 @@ $nav-link
   text-shadow: 0 1px rgba(0, 0, 0, 0.2)
   transition: 0.2s
   display: block
-  padding: 20px 15px
+  padding: 20px 15px 0
   &:hover
     opacity: 1
     font-size: 16px

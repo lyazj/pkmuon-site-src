@@ -3,8 +3,7 @@
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="https://ppnp.pku.edu.cn"><img style="width:20%;margin-top:-6%;padding-left:0.5%;float:left" src="<%- url_for('ppnp.png') %>" /></a>
-        <a href="<%- url_for() %>" id="logo"><img style="width:20%;margin-top:-10%" src="<%- url_for('favicon.png') %>" /></a>
+        <a href="<%- url_for() %>" id="logo"><img src="<%- url_for(theme.logo) %>" /></a>
       </h1>
       <% if (theme.subtitle || config.subtitle){ %>
         <h2 id="subtitle-wrap">
@@ -30,6 +29,9 @@
       </nav>
       <div id="search-form-wrap">
         <%- search_form({button: '&#xF002;', text: __('search')}) %>
+      </div>
+      <div id="ppnp-wrap">
+        <a href="<%- url_for(theme.ppnp_href) %>" id="ppnp"><img src="<%- url_for(theme.ppnp_icon) %>" /></a>
       </div>
     </div>
   </div>
