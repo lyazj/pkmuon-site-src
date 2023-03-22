@@ -1,5 +1,7 @@
 # PKMUON 网站
 
+**说明**：如果你可以访问 PKU farm，而不想或不便配置 node.js 和 npm 开发环境，建议选择[在 PKU farm 上编辑页面](#farm)方式。
+
 ## 本地测试
 
 克隆仓库后进入项目根目录，执行：
@@ -13,7 +15,7 @@ hexo server
 
 所有页面位于 source/\_posts 中，按照 category 分为 blogs 和 publications 两类。可以使用手动或 hexo 命令方式创建新页面，hexo 方式参见 [hexo 官方文档](https://hexo.io/docs/writing)。
 
-## 在 PKU farm 上编辑页面
+## <span id="farm">在 PKU farm 上编辑页面</span>
 
 ssh 登录的同时将 farm 的 4000 端口映射到本地（如被占用可改为其它）：
 
