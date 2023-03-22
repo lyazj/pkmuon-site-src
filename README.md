@@ -21,7 +21,7 @@ npm run server
 
 ## 部署修改后的页面
 
-根据需要生成 \_deploy.yml 后（如不需要可以留空），执行：
+根据需要生成 \_deploy.yml 后（初值可以拷贝 \_config.yml 中 `# Deployment` 块的内容），执行：
 ```bash
 npm run deploy
 ```
