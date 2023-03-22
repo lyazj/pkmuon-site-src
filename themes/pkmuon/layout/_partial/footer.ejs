@@ -8,8 +8,7 @@
         <%- render(theme.copyright, 'pug'); %>
       <% } %>
       &copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %><br>
-      View source on <a href="<%- config.github ? url_for(config.github) : 'https://github.com/hexojs/hexo' %>" title="GitHub">GitHub</a>
-      &nbsp; <%= __('powered_by') %> <a href="https://hexo.io/" target="_blank">Hexo</a>
+      View source on <a href="<%- config.github ? url_for(config.github) : 'https://github.com/hexojs/hexo' %>" title="GitHub">GitHub</a>&emsp;<%= __('powered_by') %> <a href="https://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
 </footer>
