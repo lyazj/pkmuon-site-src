@@ -6,7 +6,7 @@
  * to form `e.src`.
  */
 
-"use strict"
+"use strict";
 
 $(".pkmuon-relocation-src").each((i, e) => {
   e.src = pkmuon_relocation_root + e.getAttribute("_src");
