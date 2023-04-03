@@ -15,6 +15,15 @@
 
 <%- js('js/jquery-3.4.1.min.js') %>
 
+<% var pkmuon_relocation_root = url_for(); %>
+<% if(pkmuon_relocation_root.slice(pkmuon_relocation_root.length - 1) !== '/') { %>
+<%   pkmuon_relocation_root += '/'; %>
+<% } %>
+<script>
+const pkmuon_relocation_root = '<%- pkmuon_relocation_root %>';
+</script>
+<%- js('js/pkmuon-relocation.js') %>
+
 <% if (theme.fancybox){ %>
   <%- js('fancybox/jquery.fancybox.min.js') %>
 <% } %>
