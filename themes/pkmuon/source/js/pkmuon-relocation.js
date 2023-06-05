@@ -11,3 +11,7 @@
 $(".pkmuon-relocation-src").each((i, e) => {
   e.src = pkmuon_relocation_root + e.getAttribute("_src");
 });
+
+$(".pkmuon-relocation-href").each((i, e) => {
+  e.href = pkmuon_relocation_root + e.getAttribute("_href");
+});
