@@ -4,10 +4,6 @@ date: 2023-06-06
 categories: blogs
 ---
 
-<p>
-<a class="pkmuon-relocation-href" _href="dark-matter-observable/dark-matter-observable.pdf" />Click here to download the document.</a>
-</p>
+[Click here to download the document.](dark-matter-observable/dark-matter-observable.pdf)
 
-<iframe class="pkmuon-relocation-src pkmuon-article-iframe" _src="dark-matter-observable/dark-matter-observable.pdf" />
-<p>No preview.</p>
-</iframe>
+<iframe class="pkmuon-relocation-src pkmuon-article-iframe" _src="dark-matter-observable/dark-matter-observable.pdf" /></iframe>
