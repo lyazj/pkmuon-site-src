@@ -5,6 +5,7 @@ menu:
   # Archives: /archives/
   Blogs: /categories/blogs/
   Publications: /categories/publications/
+  Activities: /categories/activities/
   Contact us: /contact-us/
   About: /about/
 rss: /atom.xml
