@@ -10,9 +10,9 @@ categories: activities
 | 5.7-11, 2024   | Conference on frontiers of underground and space particle physics and cosmophysics 2024 | Qiang Li,<br />Qite Li | 1. https://indico-cdex.ep.tsinghua.edu.cn/event/162/timetable/?view=standard#15-a-proposed-pku-muon-experim<br />2. https://indico-cdex.ep.tsinghua.edu.cn/event/162/timetable/?view=standard#34-rpc |
 | 5.16, 2024     | Probing and Knocking with Muons  | Qiang Li          | https://indico-tdli.sjtu.edu.cn/event/2425/     |
 | 7.17-24, 2024  | ICHEP2024 (Prague)               | Qiang Li (poster) | https://indico.cern.ch/event/1291157/page/35069-poster-board-identifications |
-| 7.15-17, 2024  | NED&CAGD2024                     | Cheng-en Liu      | https://indico.ihep.ac.cn/event/22017/contributions/159414/ |
+| 7.15-17, 2024  | NED&CAGD2024                     | Cheng-en Liu      | https://indico.ihep.ac.cn/event/22017/timetable/?view=standard#166-rpc |
 | 8.12-18, 2024  | China HEP (Qingdao)              | Qiang Li          | https://indico.ihep.ac.cn/event/21331/timetable/?view=standard#422-a-proposed-pku-muon-experi |
-| 8.23-26, 2024  | 第二届惠州大科学装置高精度物理研讨会—暨基于 HIAF 加速器集群的缪子科学与技术研讨会 (中山大学) | Qite Li | https://indico.impcas.ac.cn/event/63/contributions/442/ |
+| 8.23-26, 2024  | 第二届惠州大科学装置高精度物理研讨会—暨基于 HIAF 加速器集群的缪子科学与技术研讨会 (中山大学) | Qite Li | https://indico.impcas.ac.cn/event/63/timetable/?view=standard#34-pkmu |
 | 8.24-27, 2024  | Workshop on Multi-front Exotic phenomena in Particle and Astrophysics | Leyun Gao | https://indico.ihep.ac.cn/event/22411/timetable/?view=standard#22-pku-muon-experiment-for-muo |
 | 9.16-21, 2024  | NuFact2024 (US)                  | Qiang Li          | https://indico.fnal.gov/event/63406/timetable/?view=standard#9-probing-and-knocking-with-mu |
 | 11.1-4, 2024   | 第三届高能物理理论与实验融合发展研讨会 | Qiang Li | https://indico.ihep.ac.cn/event/23473/timetable/?view=standard#2-probing-and-knocking-with-mu |
