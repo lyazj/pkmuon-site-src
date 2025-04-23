@@ -13,7 +13,7 @@ categories: activities
 | 8.12-18, 2024  | China HEP (Qingdao)              | Qiang Li          | https://indico.ihep.ac.cn/event/21331/timetable/?view=standard#422-a-proposed-pku-muon-experi |
 | 8.23-26, 2024  | 第二届惠州大科学装置高精度物理研讨会—暨基于 HIAF 加速器集群的缪子科学与技术研讨会 (中山大学) | Qite Li | https://indico.impcas.ac.cn/event/63/contributions/442/ |
 | 8.24-27, 2024  | Workshop on Multi-front Exotic phenomena in Particle and Astrophysics | Leyun Gao | https://indico.ihep.ac.cn/event/22411/timetable/?view=standard#22-pku-muon-experiment-for-muo |
-| 9.16-21, 2024  | NuFact2024 (US)                  | pending           | https://indico.fnal.gov/event/63406/abstracts/ https://indico.fnal.gov/event/63406/abstracts/8869/ |
-| 10.10-13, 2024 | CSP (Hainan)                     | pending           | https://spoe.hainanu.edu.cn/info/1044/26731.htm |
-| 10.21-25, 2024 | COSMO'24                         | pending           | https://sites.google.com/view/cosmo2024/venue   |
-| 11.4-7, 2024   | Muography Workshop 2024 (US)     | pending           | https://web.cvent.com/event/e1c94370-1e43-4ff5-a25a-c6b992afe6a9/summary |
+| 9.16-21, 2024  | NuFact2024 (US)                  | Qiang Li          | https://indico.fnal.gov/event/63406/timetable/?view=standard#9-probing-and-knocking-with-mu |
+| 10.10-13, 2024 | CSP (Hainan)                     | TO BE UPDATED     | https://spoe.hainanu.edu.cn/info/1044/26731.htm |
+| 10.21-25, 2024 | COSMO'24                         | TO BE UPDATED     | https://sites.google.com/view/cosmo2024/venue   |
+| 11.4-7, 2024   | Muography Workshop 2024 (US)     | TO BE UPDATED     | https://web.cvent.com/event/e1c94370-1e43-4ff5-a25a-c6b992afe6a9/summary |
