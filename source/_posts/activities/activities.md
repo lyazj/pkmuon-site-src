@@ -1,6 +1,5 @@
 ---
 title: 'Group Activities'
-date: 2024-07-29
 categories: activities
 ---
 | Time           | Event                            | Participant       | Information                                     |
