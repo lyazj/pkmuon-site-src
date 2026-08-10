@@ -15,6 +15,7 @@ categories: activities
 | 8.24-27, 2024  | Workshop on Multi-front Exotic phenomena in Particle and Astrophysics | Leyun Gao | https://indico.ihep.ac.cn/event/22411/timetable/?view=standard#22-pku-muon-experiment-for-muo |
 | 9.16-21, 2024  | NuFact2024 (US)                  | Qiang Li          | https://indico.fnal.gov/event/63406/timetable/?view=standard#9-probing-and-knocking-with-mu |
 | 11.1-4, 2024   | 第三届高能物理理论与实验融合发展研讨会 | Qiang Li    | https://indico.ihep.ac.cn/event/23473/timetable/?view=standard#2-probing-and-knocking-with-mu |
+| 11.4-7, 2024   | Muography Workshop               | Qite Li           | https://custom.cvent.com/184F82DD73C94B5DA7BCE5DA8F257665/files/event/e1c943701e434ff5a25ac6b992afe6a9/e8cb8340c47242eebc0e1715d48316d7.pdf |
 | 11.7-9, 2024   | 第二届国内缪子（μ）成像技术与应用研讨会 | Cheng-en Liu | https://indico.pnp.ustc.edu.cn/event/2930/timetable/?view=standard#7-rpc |
 | 11.11-15, 2024 | The 8th Shanghai Symposium on Particle Physics and Cosmology: Cosmic Neutrinos, Multi-messengers and Innovative Detectors | Qite Li | https://indico-tdli.sjtu.edu.cn/event/2360/timetable/?view=standard#9-probing-and-knocking-with-mu |
 | 11.13, 2024    | Probing and Knocking with Muons for Dark Matter and others | Qiang Li | https://indico.ihep.ac.cn/event/23323/ |
