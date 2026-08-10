@@ -1,4 +1,4 @@
-# PKMUON 网站
+# PKMu 网站
 
 **要求**：`node.js 14+`，最好 `node.js 18+`（[下载主页](https://nodejs.org/en/download)，[各大 Linux 安装包下载页面](https://nodejs.org/en/download/package-manager)）。
 

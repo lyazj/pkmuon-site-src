@@ -3,14 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: PKMUON Lab
+title: The PKMu Collaboration
 subtitle: ''
-description:
-  Probing sub-GeV darK Matter Using freely flying LeptONs (PKMUON),
-  a new method to detect sub-GeV dark matter at or below the MeV scale,
-  through their scatterings from freely flying leptons and the resulting kinematic shifts.
-keywords: PKMUON
-author: The PKMUON collaboration, PKU
+description: PKMu, short for Probing and Knocking with Muons, is an innovative set of experimental and analytical methods proposed for advanced fundamental physics research, centered on the utilization of GeV-scale muon beams to explore uncharted physical phenomena beyond the Standard Model of particle physics. Developed by a joint research team from Peking University and the Chinese Academy of Sciences, this novel framework leverages muon scattering interactions as a versatile investigative tool to address key unsolved problems in modern particle physics, cosmology, and quantum physics.
+keywords: [PKMu, Muon, PKU]
+author: The PKMu Collaboration
 language: en
 timezone: UTC
 
