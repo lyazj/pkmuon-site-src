@@ -30,6 +30,9 @@ categories: publications
 
 [14] Liu, Cheng-En, et al. "Study on the Impact of Cosmic Ray Secondary Particles on Muography." <a href="https://doi.org/10.20173/j.cnki.ned.20260303.001"><i>Nuclear Electronics & Detection Technology</i> 46.4: 479–486 (2026)</a>.
 
-[15] Hu, Zimo, et al. "The muon Moonshot: Moon subsurface tomography with upward-going muons." <a href="https://arxiv.org/abs/2607.10403"><i>arXiv</i> preprint arXiv:2607.10403 (2026)</a>.
+[15] Zhao, Zhizheng, et al. "Raw-Hit Muon Tomography: A Measurement-Domain Formulation for Cosmic-Ray Muon Imaging." <a href="https://arxiv.org/abs/2606.20180"><i>arXiv</i> preprint arXiv:2606.20180 (2026)</a>.
 
-[16] Shen, Jinhong, et al. "Production of lepton-flavor-violating scalars through resonant positive-muon annihilation on atomic electrons." <a href="https://arxiv.org/abs/2607.18669"><i>arXiv</i> preprint arXiv:2607.18669 (2026)</a>.
+[16] Hu, Zimo, et al. "The muon Moonshot: Moon subsurface tomography with upward-going muons." <a href="https://arxiv.org/abs/2607.10403"><i>arXiv</i> preprint arXiv:2607.10403 (2026)</a>.
+
+[17] Shen, Jinhong, et al. "Production of lepton-flavor-violating scalars through resonant positive-muon annihilation on atomic electrons." <a href="https://arxiv.org/abs/2607.18669"><i>arXiv</i> preprint arXiv:2607.18669 (2026)</a>.
+
