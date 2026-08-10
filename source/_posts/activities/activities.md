@@ -32,6 +32,6 @@ categories: activities
 | 6.22-26, 2026  | PASCOS 2026                      | Andrew Michael Levin | https://indico.global/event/14705/timetable/?view=standard#20-probing-cosmic-ray-composit |
 | 7.12-13, 2026  | 缪缪论坛——缪子物理与缪子技术创新学术论坛 | Collaborators | https://indico.ihep.ac.cn/event/29862/timetable/?view=standard |
 | 7.29-8.5, 2026 | 43rd International Conference on High Energy Physics | Chen Zhou, Qiang Li, Qite Li | https://indico.cern.ch/event/1522800/timetable/?view=standard#700-probing-and-knocking-with |
-| 7.30, 2026     | RIBLL合作组第23次会议 | Qite Li, Chen Zhou, Qiang Li | https://indico.cern.ch/event/1709177/contributions/7188471/subcontributions/626644/attachments/3320439/5947922/LiQite-PKMu-20260730-%E9%80%9A%E8%BE%BD.pdf |
+| 7.30, 2026     | RIBLL合作组第23次会议 | Qite Li, Chen Zhou, Qiang Li | File: <a class="pkmuon-relocation-href" _href="activities/LiQite-PKMu-20260730-%E9%80%9A%E8%BE%BD.pdf">LiQite-PKMu-20260730-通辽.pdf</a> |
 | 8.9-13, 2026   | The Fifth International Conference on Axion Physics and Experiment (Axion 2026) | Qiang Li, Qite Li, Chen Zhou, Cheng-en Liu, Leyun Gao | https://indico.itp.ac.cn/event/416/timetable/?view=standard#14-new-limits-on-muon-philic-d |
 | 8.31-9.5, 2026 | NuFact 2026 - The 27th International Workshop on Neutrinos from Accelerators | Qiang Li, Qite Li | https://indico-tdli.sjtu.edu.cn/event/4693/timetable/?view=standard#15-probing-cosmic-ray-composit |
