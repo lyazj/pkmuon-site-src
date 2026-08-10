@@ -38,3 +38,7 @@ categories: activities
 | 7.29-8.5, 2026 | 43rd International Conference on High Energy Physics | Chen Zhou,<br />Qiang Li,<br />Qite Li | https://indico.cern.ch/event/1522800/timetable/?view=standard#700-probing-and-knocking-with |
 | 8.9-13, 2026   | The Fifth International Conference on Axion Physics and Experiment (Axion 2026) | Qiang Li,<br />Qite Li,<br />Chen Zhou,<br />Cheng-en Liu,<br />Leyun Gao | https://indico.itp.ac.cn/event/416/timetable/?view=standard#14-new-limits-on-muon-philic-d |
 | 8.31-9.5, 2026 | NuFact 2026 - The 27th International Workshop on Neutrinos from Accelerators | Qiang Li,<br />Qite Li | https://indico-tdli.sjtu.edu.cn/event/4693/timetable/?view=standard#15-probing-cosmic-ray-composit |
+
+<script>
+document.write(document.getElementsByTagName("table")[0].children[1].children.length + " items shown.");
+</script>
