@@ -2,6 +2,8 @@
 title: 'Publications'
 categories: publications
 ---
+[0] Ruzi, Alim, et al. "Probing dark matter using free leptons: PKMUON." <a href="https://doi.org/10.1142/S0217751X23501543"><i>International Journal of Modern Physics A</i> 38.29n30 (2023): 2350154</a>.
+
 [1] Yu, Xudong, et al. "Proposed Peking University muon experiment for muon tomography and dark matter search." <a href="https://doi.org/10.1103/PhysRevD.110.016017"><i>Physical Review D</i> 110.1 (2024): 016017</a>.
 
 [2] Gao, Leyun, et al. "Probing charged lepton flavor violation in an economical muon on-target experiment." <a href="https://doi.org/10.1142/S0217751X25501647"><i>International Journal of Modern Physics A</i> 40.35 (2025): 2550164</a>.
