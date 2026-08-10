@@ -18,7 +18,7 @@ categories: publications
 
 [8] Zhang, Rongfeng, et al. "Revealing secondary particle signatures in muography based on the point of closest approach algorithm." <a href="https://doi.org/10.1063/5.0288322"><i>Journal of Applied Physics</i> 139.1 (2026)</a>.
 
-[9] Qin, Zibo, et al. "Millimeter-Resolution Cosmic-Ray Imaging via Projection-Shifted Muon Transmission Tomography." <a href="https://arxiv.org/abs/2512.19747"><i>arXiv</i> preprint arXiv:2512.19747</a> (2025).
+[9] Qin, Zibo, et al. "Millimeter-Resolution Cosmic-Ray Imaging via Projection-Shifted Muon Transmission Tomography." <a href="https://arxiv.org/abs/2512.19747"><i>arXiv</i> preprint arXiv:2512.19747 (2025)</a>.
 
 [10] Liu, Cheng-En, et al. "Probing and knocking with muons and new physics exploration." <a href="https://doi.org/10.1360/CSB-2025-5452"><i>Chinese Science Bulletin</i> 71.4 (2026): 894-903</a>.
 
@@ -28,6 +28,6 @@ categories: publications
 
 [13] Liu, Cheng-En, et al. "Study on the Impact of Cosmic Ray Secondary Particles on Muography." <a href="https://doi.org/10.20173/j.cnki.ned.20260303.001"><i>Nuclear Electronics & Detection Technology</i> 46.4: 479–486 (2026)</a>.
 
-[14] Hu, Zimo, et al. "The muon Moonshot: Moon subsurface tomography with upward-going muons." <a href="https://arxiv.org/abs/2607.10403"><i>arXiv</i> preprint arXiv:2607.10403</a> (2026).
+[14] Hu, Zimo, et al. "The muon Moonshot: Moon subsurface tomography with upward-going muons." <a href="https://arxiv.org/abs/2607.10403"><i>arXiv</i> preprint arXiv:2607.10403 (2026)</a>.
 
-[15] Shen, Jinhong, et al. "Production of lepton-flavor-violating scalars through resonant positive-muon annihilation on atomic electrons." <a href="https://arxiv.org/abs/2607.18669"><i>arXiv</i> preprint arXiv:2607.18669</a> (2026).
+[15] Shen, Jinhong, et al. "Production of lepton-flavor-violating scalars through resonant positive-muon annihilation on atomic electrons." <a href="https://arxiv.org/abs/2607.18669"><i>arXiv</i> preprint arXiv:2607.18669 (2026)</a>.
