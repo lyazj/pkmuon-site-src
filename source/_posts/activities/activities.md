@@ -4,7 +4,7 @@ categories: activities
 ---
 | Time           | Event                            | Participant       | Information                                     |
 | -------------  | -------------------------------- | ----------------- | --------------------------------------          |
-| 11.3-6, 2023   | MELODY 2023                      | Qiang Li          | https://indico.ihep.ac.cn/event/20601/timetable/?view=standard#76-spectrometer-design-of-melo |
+| 11.3-6, 2023   | MELODY 2023                      | Qite Li           | https://indico.ihep.ac.cn/event/20601/timetable/?view=standard#70-rd-of-cosmic-muon-imaging-b |
 | 4.19-22, 2024  | MIP2024                          | Xudong Yu         | https://indico.cern.ch/event/1356341/timetable/?view=standard#19-a-proposed-pku-muon-experim |
 | 5.7-11, 2024   | Conference on frontiers of underground and space particle physics and cosmophysics 2024 | Qiang Li,<br />Qite Li | 1. https://indico-cdex.ep.tsinghua.edu.cn/event/162/timetable/?view=standard#15-a-proposed-pku-muon-experim<br />2. https://indico-cdex.ep.tsinghua.edu.cn/event/162/timetable/?view=standard#34-rpc |
 | 5.16, 2024     | Probing and Knocking with Muons  | Qiang Li          | https://indico-tdli.sjtu.edu.cn/event/2425/     |
@@ -38,6 +38,8 @@ categories: activities
 | 7.29-8.5, 2026 | 43rd International Conference on High Energy Physics | Chen Zhou,<br />Qiang Li,<br />Qite Li | https://indico.cern.ch/event/1522800/timetable/?view=standard#700-probing-and-knocking-with |
 | 8.9-13, 2026   | The Fifth International Conference on Axion Physics and Experiment (Axion 2026) | Qiang Li,<br />Qite Li,<br />Chen Zhou,<br />Cheng-en Liu,<br />Leyun Gao | https://indico.itp.ac.cn/event/416/timetable/?view=standard#14-new-limits-on-muon-philic-d |
 | 8.31-9.5, 2026 | NuFact 2026 - The 27th International Workshop on Neutrinos from Accelerators | Qiang Li,<br />Qite Li | https://indico-tdli.sjtu.edu.cn/event/4693/timetable/?view=standard#15-probing-cosmic-ray-composit |
+| 10.5-9, 2026   | Dark Interactions: Standard Model Measurements and Searches for Dark Sector States (DI2026) | Leyun Gao | https://indico.cern.ch/event/1639855/ (pending) |
+| 10.5-9, 2026   | PIC 2026                         | Pending              | https://indico.cern.ch/event/1675868/ |
 
 <script>
 document.write(document.getElementsByTagName("table")[0].children[1].children.length + " items shown.");
