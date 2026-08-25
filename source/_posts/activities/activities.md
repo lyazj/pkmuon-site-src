@@ -40,6 +40,7 @@ categories: activities
 | 8.31-9.5, 2026 | NuFact 2026 - The 27th International Workshop on Neutrinos from Accelerators | Qiang Li,<br />Qite Li | https://indico-tdli.sjtu.edu.cn/event/4693/timetable/?view=standard#15-probing-cosmic-ray-composit |
 | 10.5-9, 2026   | Dark Interactions: Standard Model Measurements and Searches for Dark Sector States (DI2026) | Leyun Gao | https://indico.cern.ch/event/1639855/ (pending) |
 | 10.5-9, 2026   | PIC 2026                         | Pending              | https://indico.cern.ch/event/1675868/ |
+| 12.14-17, 2026 | 4th International Conference on Neutrinos and Dark Matter | Pending | https://indico.cern.ch/event/1609263/ |
 
 <script>
 document.write(document.getElementsByTagName("table")[0].children[1].children.length + " items shown.");
