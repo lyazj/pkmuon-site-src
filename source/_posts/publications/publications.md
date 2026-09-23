@@ -38,4 +38,6 @@ categories: publications
 
 [17] Shen, Jinhong, et al. "Production of lepton-flavor-violating scalars through resonant positive-muon annihilation on atomic electrons." <a href="https://arxiv.org/abs/2607.18669"><i>arXiv</i> preprint arXiv:2607.18669 (2026)</a>.
 
-[18] Rongfeng Zhang, et al. "Projected Sensitivity to Slow Muonphilic Dark Matter with Accelerator Muon Beams." <a href="https://arxiv.org/abs/2609.11617"><i>arXiv</i> preprint arXiv:2609.11617 (2026)</a>.
+[18] Zhang, Rongfeng, et al. "Projected Sensitivity to Slow Muonphilic Dark Matter with Accelerator Muon Beams." <a href="https://arxiv.org/abs/2609.11617"><i>arXiv</i> preprint arXiv:2609.11617 (2026)</a>.
+
+[19] Yuan, Yi, et al. "Future Muon Physics Experiments: Muon Beams and Experimental Apparatus" <a href="https://arxiv.org/abs/2609.25943"><i>arXiv</i> preprint arXiv:2609.25943 (2026)</a>.
