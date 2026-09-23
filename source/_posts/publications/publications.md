@@ -40,4 +40,4 @@ categories: publications
 
 [18] Zhang, Rongfeng, et al. "Projected Sensitivity to Slow Muonphilic Dark Matter with Accelerator Muon Beams." <a href="https://arxiv.org/abs/2609.11617"><i>arXiv</i> preprint arXiv:2609.11617 (2026)</a>.
 
-[19] Yuan, Yi, et al. "Future Muon Physics Experiments: Muon Beams and Experimental Apparatus" <a href="https://arxiv.org/abs/2609.25943"><i>arXiv</i> preprint arXiv:2609.25943 (2026)</a>.
+[19] Yuan, Yi, et al. "Future Muon Physics Experiments: Muon Beams and Experimental Apparatus." <a href="https://arxiv.org/abs/2609.25943"><i>arXiv</i> preprint arXiv:2609.25943 (2026)</a>.
